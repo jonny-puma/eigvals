@@ -1,0 +1,12 @@
+# Vim swap and temp files
+*.swp
+*~
+
+# C object files
+*.o
+
+# binaries
+eigvals
+
+# MacOS DS store files
+.DS_Store
